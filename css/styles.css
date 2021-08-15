@@ -27,6 +27,11 @@ button {
   font-family: 'Open Sans';
 }
 
+.rapport {
+  padding: 15px;
+  
+}
+
 .button {
   background: coral;
   color: white;
